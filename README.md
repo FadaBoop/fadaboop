@@ -9,7 +9,7 @@ public class Me
   string myName = "Timur";
   void myKnowledge()
   {
-    cout << "I'm currently learning: C++" << endl;ç
+    cout << "I'm currently learning: C++" << endl;
   }
 };
 ```
